@@ -1,0 +1,34 @@
+Africa	528	https://iptv-org.github.io/iptv/regions/afr.m3u
+Americas	4198	https://iptv-org.github.io/iptv/regions/amer.m3u
+Arab world	403	https://iptv-org.github.io/iptv/regions/arab.m3u
+Asia	2995	https://iptv-org.github.io/iptv/regions/asia.m3u
+Asia-Pacific	2026	https://iptv-org.github.io/iptv/regions/apac.m3u
+Association of Southeast Asian Nations	399	https://iptv-org.github.io/iptv/regions/asean.m3u
+Balkan	669	https://iptv-org.github.io/iptv/regions/balkan.m3u
+Benelux	237	https://iptv-org.github.io/iptv/regions/benelux.m3u
+Caribbean	278	https://iptv-org.github.io/iptv/regions/carib.m3u
+Central America	372	https://iptv-org.github.io/iptv/regions/cenamer.m3u
+Central and Eastern Europe	1069	https://iptv-org.github.io/iptv/regions/cee.m3u
+Central Asia	80	https://iptv-org.github.io/iptv/regions/cas.m3u
+Commonwealth of Independent States	459	https://iptv-org.github.io/iptv/regions/cis.m3u
+Europe	3332	https://iptv-org.github.io/iptv/regions/eur.m3u
+Europe, the Middle East and Africa	4199	https://iptv-org.github.io/iptv/regions/emea.m3u
+European Union	2231	https://iptv-org.github.io/iptv/regions/eu.m3u
+Hispanic America	1898	https://iptv-org.github.io/iptv/regions/hispam.m3u
+Latin America	2198	https://iptv-org.github.io/iptv/regions/latam.m3u
+Latin America and the Caribbean	2225	https://iptv-org.github.io/iptv/regions/lac.m3u
+Maghreb	61	https://iptv-org.github.io/iptv/regions/maghreb.m3u
+Middle East	663	https://iptv-org.github.io/iptv/regions/mideast.m3u
+Middle East and North Africa	713	https://iptv-org.github.io/iptv/regions/mena.m3u
+Nordics	96	https://iptv-org.github.io/iptv/regions/nord.m3u
+North America	2845	https://iptv-org.github.io/iptv/regions/noram.m3u
+Northern America	1974	https://iptv-org.github.io/iptv/regions/nam.m3u
+Northern Europe	132	https://iptv-org.github.io/iptv/regions/neur.m3u
+Oceania	84	https://iptv-org.github.io/iptv/regions/oce.m3u
+South America	1361	https://iptv-org.github.io/iptv/regions/southam.m3u
+South Asia	605	https://iptv-org.github.io/iptv/regions/sas.m3u
+Southeast Asia	413	https://iptv-org.github.io/iptv/regions/sea.m3u
+Southern Europe	1138	https://iptv-org.github.io/iptv/regions/ser.m3u
+Sub-Saharan Africa	437	https://iptv-org.github.io/iptv/regions/ssa.m3u
+West Africa	179	https://iptv-org.github.io/iptv/regions/wafr.m3u
+Western Europe	1004	https://iptv-org.github.io/iptv/regions/wer.m3u
